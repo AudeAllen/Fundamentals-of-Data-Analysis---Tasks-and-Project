@@ -34,5 +34,8 @@ the first 10,000 positive integers. <br />
 ======
 ### ***task2***
 
+References
 
+https://stats.oarc.ucla.edu/other/mult-pkg/whatstat/what-is-the-difference-between-categorical-ordinal-and-interval-variables/
 
+https://en.wikipedia.org/wiki/Continuous_or_discrete_variable
