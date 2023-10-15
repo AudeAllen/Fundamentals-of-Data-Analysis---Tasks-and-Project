@@ -1,7 +1,7 @@
-# Fundamentals of Data Analysis - Tasks and Project** <br /> 
+# Fundamentals of Data Analysis - Tasks and Project <br /> 
 <br /> 
-**The Fundamentals of Data Analysis - Tasks and Project contains all the assignments in the Higher Diploma in Data Analytics course for this module*** <br /> 
-**Here I will explain how I came to the solution of given tasks, reference the sources I researched for solving the problems and list the technologies I used for creating and testing the code*** <br />
+The Fundamentals of Data Analysis - Tasks and Project contains all the assignments in the Higher Diploma in Data Analytics course for this module <br /> 
+Here I will explain how I came to the solution of given tasks, reference the sources I researched for solving the problems and list the technologies I used for creating and testing the code <br />
 <br />
 <br />
 
