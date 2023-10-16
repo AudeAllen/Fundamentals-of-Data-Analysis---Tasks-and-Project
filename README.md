@@ -39,3 +39,5 @@ References
 https://stats.oarc.ucla.edu/other/mult-pkg/whatstat/what-is-the-difference-between-categorical-ordinal-and-interval-variables/
 
 https://en.wikipedia.org/wiki/Continuous_or_discrete_variable
+
+https://www.cvent.com/en/blog/events/data-types-interval-ratio-data#:~:text=Ratio%20data%20has%20a%20defined,are%20examples%20of%20ratio%20data.
