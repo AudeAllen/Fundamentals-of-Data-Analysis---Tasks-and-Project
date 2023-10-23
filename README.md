@@ -34,6 +34,12 @@ the first 10,000 positive integers. <br />
 ======
 ### ***task2***
 
+
+2. Give an overview of the famous penguins data set, explaining 
+the types of variables it contains. Suggest the types of variables
+that should be used to model them in Python, explaining your
+rationale.
+
 References
 
 https://stats.oarc.ucla.edu/other/mult-pkg/whatstat/what-is-the-difference-between-categorical-ordinal-and-interval-variables/
