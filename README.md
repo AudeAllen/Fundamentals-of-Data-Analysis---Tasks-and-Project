@@ -47,3 +47,7 @@ https://stats.oarc.ucla.edu/other/mult-pkg/whatstat/what-is-the-difference-betwe
 https://en.wikipedia.org/wiki/Continuous_or_discrete_variable
 
 https://www.cvent.com/en/blog/events/data-types-interval-ratio-data#:~:text=Ratio%20data%20has%20a%20defined,are%20examples%20of%20ratio%20data.
+
+https://www.kaggle.com/code/parulpandey/penguin-dataset-the-new-iris
+
+https://en.wikipedia.org/wiki/Level_of_measurement
