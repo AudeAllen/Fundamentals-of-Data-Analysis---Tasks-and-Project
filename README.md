@@ -9,6 +9,7 @@ Here I will explain how I came to the solution of given tasks, reference the sou
 * [Weekly tasks](#weekly-tasks)
     * [task1](#task1)
     * [task2](#task2)
+    * [task3](#task3)
 
 
 Weekly tasks
@@ -40,8 +41,17 @@ the types of variables it contains. Suggest the types of variables
 that should be used to model them in Python, explaining your
 rationale.
 
+======
+### ***task3***
+
+
+3. For each of the variables in the penguins data set,3 suggest what probability distribution from the numpy random distributions list is the most appropriate to model the variable.
+
+
 References
 
+
+Task 2
 https://stats.oarc.ucla.edu/other/mult-pkg/whatstat/what-is-the-difference-between-categorical-ordinal-and-interval-variables/
 
 https://en.wikipedia.org/wiki/Continuous_or_discrete_variable
@@ -51,3 +61,9 @@ https://www.cvent.com/en/blog/events/data-types-interval-ratio-data#:~:text=Rati
 https://www.kaggle.com/code/parulpandey/penguin-dataset-the-new-iris
 
 https://en.wikipedia.org/wiki/Level_of_measurement
+
+Task 3
+
+https://docs.oracle.com/cd/E12825_01/epm.111/cb_user/frameset.htm?apas03.html
+
+https://www.simplilearn.com/tutorials/statistics-tutorial/what-is-probability-distribution#:~:text=A%20probability%20distribution%20is%20a,variable%20within%20a%20given%20range.
