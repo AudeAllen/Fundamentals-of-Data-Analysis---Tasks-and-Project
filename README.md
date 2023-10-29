@@ -67,3 +67,12 @@ Task 3
 https://docs.oracle.com/cd/E12825_01/epm.111/cb_user/frameset.htm?apas03.html
 
 https://www.simplilearn.com/tutorials/statistics-tutorial/what-is-probability-distribution#:~:text=A%20probability%20distribution%20is%20a,variable%20within%20a%20given%20range.
+
+https://bolt.mph.ufl.edu/6050-6052/unit-1/one-categorical-variable/#:~:text=In%20order%20to%20summarize%20the,converting%20the%20counts%20to%20percentages
+
+https://www.statology.org/frequency-tables-python/
+
+https://www.geeksforgeeks.org/how-to-create-frequency-tables-in-python/
+
+
+
