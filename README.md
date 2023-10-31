@@ -74,5 +74,7 @@ https://www.statology.org/frequency-tables-python/
 
 https://www.geeksforgeeks.org/how-to-create-frequency-tables-in-python/
 
+https://www.kristakingmath.com/blog/symmetric-and-skewed-distributions
+
 
 
