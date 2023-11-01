@@ -76,5 +76,9 @@ https://www.geeksforgeeks.org/how-to-create-frequency-tables-in-python/
 
 https://www.kristakingmath.com/blog/symmetric-and-skewed-distributions
 
+https://www.mygreatlearning.com/blog/gamma-distribution/#:~:text=Gamma%20Distribution%20is%20a%20Continuous,times%20between%20events%20are%20relevant.
+
+
+
 
 
