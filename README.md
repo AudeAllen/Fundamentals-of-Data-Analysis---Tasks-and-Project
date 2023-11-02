@@ -78,6 +78,9 @@ https://www.kristakingmath.com/blog/symmetric-and-skewed-distributions
 
 https://www.mygreatlearning.com/blog/gamma-distribution/#:~:text=Gamma%20Distribution%20is%20a%20Continuous,times%20between%20events%20are%20relevant.
 
+https://en.wikipedia.org/wiki/Gamma_distribution
+
+https://www.geeksforgeeks.org/python-numpy-np-lognormal-method/
 
 
 
