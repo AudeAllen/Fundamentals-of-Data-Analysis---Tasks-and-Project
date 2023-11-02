@@ -82,6 +82,8 @@ https://en.wikipedia.org/wiki/Gamma_distribution
 
 https://www.geeksforgeeks.org/python-numpy-np-lognormal-method/
 
+https://github.com/AudeAllen/Fundamentals-of-Data-Analysis---Tasks-and-Project/blob/main/tasks.ipynb
+
 
 
 
