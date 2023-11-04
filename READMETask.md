@@ -10,8 +10,6 @@ Here I will explain how I came to the solution of given tasks, reference the sou
     * [task1](#task1)
     * [task2](#task2)
     * [task3](#task3)
-    * [Project Iris-Dataset](#project-iris-dataset)
-
 
 Weekly tasks
 ======
