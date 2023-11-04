@@ -62,3 +62,7 @@ The 4 variables in question are
 
 ### ***sepalwidth***
 
+7 References
+======
+
+https://rstudio-pubs-static.s3.amazonaws.com/450733_9a472ce9632f4ffbb2d6175aaaee5be6.html#:~:text=iris%20dataset%20gives%20the%20measurements,setosa%2C%20versicolor%2C%20and%20virginica

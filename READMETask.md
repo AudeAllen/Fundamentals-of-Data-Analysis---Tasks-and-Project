@@ -50,7 +50,8 @@ rationale.
 ### References
 
 
-Task 2
+Task 2 - References
+
 https://stats.oarc.ucla.edu/other/mult-pkg/whatstat/what-is-the-difference-between-categorical-ordinal-and-interval-variables/
 
 https://en.wikipedia.org/wiki/Continuous_or_discrete_variable
@@ -61,7 +62,7 @@ https://www.kaggle.com/code/parulpandey/penguin-dataset-the-new-iris
 
 https://en.wikipedia.org/wiki/Level_of_measurement
 
-Task 3
+Task 3 - References
 
 https://docs.oracle.com/cd/E12825_01/epm.111/cb_user/frameset.htm?apas03.html
 
