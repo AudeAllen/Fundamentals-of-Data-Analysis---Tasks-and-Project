@@ -24,7 +24,7 @@
 * [7 References](#7-references)   
 
 
-1 Introduction project
+1 Project Introduction 
 ======
 ### ***Problem Statement***
 
@@ -48,4 +48,17 @@ Brief description on the background of the Iris Dataset. Who created it and the 
 
 4 Classification of Variables
 ======
+In this section of my notebook I will discuss the classification of each variable within the data set according to common variable types and scales of measurement in mathematics, statistics, and Python. 
+
+The 4 variables in question are 
+
+### ***Species***
+
+### ***petallength***
+
+### ***petalwidth***
+
+### ***sepallength***
+
+### ***sepalwidth***
 
