@@ -66,3 +66,7 @@ The 4 variables in question are
 ======
 
 https://rstudio-pubs-static.s3.amazonaws.com/450733_9a472ce9632f4ffbb2d6175aaaee5be6.html#:~:text=iris%20dataset%20gives%20the%20measurements,setosa%2C%20versicolor%2C%20and%20virginica
+
+https://sa2253.medium.com/classification-of-iris-dataset-b4310ddf0482#:~:text=SUMMARY,networkis%20the%20best%20classification%20method
+
+https://studyonline.unsw.edu.au/blog/types-of-data#:~:text=Psychologist%20Stanley%20Stevens%20developed%20the,to%20properly%20analyse%20the%20data
