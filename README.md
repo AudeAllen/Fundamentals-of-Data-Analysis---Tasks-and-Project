@@ -19,11 +19,8 @@ Here I will explain how I came to the solution of given tasks, reference the sou
 * [2 Software needed to run the project](#2-software-needed-to-run-the-project)	
 * [3 Background on   the Iris Dataset](#3-background-on-the-iris-dataset)	
 * [4 Classification of Variables](#4-classification-of-variables)
-    * [Species](#species)
-    * [Petallength](#petallength)
-    * [Petalwidth](#petalwidth)
-    * [Sepallength](#sepallength)
-    * [Sepalwidth](#sepalwidth)
+* [5 Summary Statistics](#5-summary-statistics)
+
 
 
 
@@ -144,7 +141,10 @@ The 4 variables in question are
 
 ### ***sepalwidth***
 
+5 Summary Statistics
+======
 
+The aim of this section of my project is to select, demonstrate, and explain the most appropriate summary statistics to describe each variable on the iris dataset.
 
 
 
