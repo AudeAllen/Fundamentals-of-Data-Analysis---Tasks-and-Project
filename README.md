@@ -160,3 +160,11 @@ https://rstudio-pubs-static.s3.amazonaws.com/450733_9a472ce9632f4ffbb2d6175aaaee
 https://sa2253.medium.com/classification-of-iris-dataset-b4310ddf0482#:~:text=SUMMARY,networkis%20the%20best%20classification%20method
 
 https://studyonline.unsw.edu.au/blog/types-of-data#:~:text=Psychologist%20Stanley%20Stevens%20developed%20the,to%20properly%20analyse%20the%20data
+
+https://en.wikipedia.org/wiki/Summary_statistics
+
+https://www.askpython.com/python/examples/calculate-summary-statistics
+
+https://byjus.com/biology/sepals/#:~:text=Sepals%20are%20small%2C%20leaf%2Dshaped,considered%20as%20the%20modified%20leaves
+
+https://www.vocabulary.com/dictionary/petal#:~:text=Petal%20comes%20from%20the%20Greek,flower's%20corolla%2C%20surrounding%20the%20center
