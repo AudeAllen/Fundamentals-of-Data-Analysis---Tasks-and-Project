@@ -10,6 +10,7 @@ Here I will explain how I came to the solution of given tasks, reference the sou
     * [task1](#task1)
     * [task2](#task2)
     * [task3](#task3)
+    * [task4](#task4)
 
 
 
@@ -60,8 +61,15 @@ rationale.
 
 3. For each of the variables in the penguins data set,3 suggest what probability distribution from the numpy random distributions list is the most appropriate to model the variable.
 
+======
+### ***task4***
 
-### References for Task
+
+4. Suppose you are flipping two coins, each with a probability p of giving heads. Plot the entropy of the total number of heads versus p.
+
+
+
+### References for Tasks
 
 
 Task 2 - References
@@ -97,6 +105,18 @@ https://en.wikipedia.org/wiki/Gamma_distribution
 https://www.geeksforgeeks.org/python-numpy-np-lognormal-method/
 
 https://github.com/AudeAllen/Fundamentals-of-Data-Analysis---Tasks-and-Project/blob/main/tasks.ipynb
+
+Task 4 - References
+
+https://www.merriam-webster.com/dictionary/entropy#:~:text=broadly%20%3A%20the%20degree%20of%20disorder,universe%20toward%20death%20and%20disorder
+
+https://en.wikipedia.org/wiki/Entropy_(information_theory)
+
+https://sciencenotes.org/coin-toss-probability-formula-and-examples/
+
+https://www.blog.trainindata.com/mutual-information-with-python/
+
+https://en.wikipedia.org/wiki/Entropy_(information_theory)#:~:text=Two%20bits%20of%20entropy%3A%20In,and%20two%20bits%20of%20entropy
 
 
 ========================================================================================================================
@@ -152,7 +172,7 @@ The aim of this section of my project is to select, demonstrate, and explain the
 
 
 
-7 References
+7 References for Project
 ======
 
 https://rstudio-pubs-static.s3.amazonaws.com/450733_9a472ce9632f4ffbb2d6175aaaee5be6.html#:~:text=iris%20dataset%20gives%20the%20measurements,setosa%2C%20versicolor%2C%20and%20virginica
