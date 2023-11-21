@@ -118,6 +118,8 @@ https://www.blog.trainindata.com/mutual-information-with-python/
 
 https://en.wikipedia.org/wiki/Entropy_(information_theory)#:~:text=Two%20bits%20of%20entropy%3A%20In,and%20two%20bits%20of%20entropy
 
+https://towardsdatascience.com/entropy-in-soft-actor-critic-part-1-92c2cd3a3515
+
 
 ========================================================================================================================
 
