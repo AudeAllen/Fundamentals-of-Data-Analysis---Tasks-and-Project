@@ -11,6 +11,7 @@ Here I will explain how I came to the solution of given tasks, reference the sou
     * [task2](#task2)
     * [task3](#task3)
     * [task4](#task4)
+    * [References for Tasks](#references-for-tasks)
 
 
 
@@ -21,8 +22,8 @@ Here I will explain how I came to the solution of given tasks, reference the sou
 * [3 Background on   the Iris Dataset](#3-background-on-the-iris-dataset)	
 * [4 Classification of Variables](#4-classification-of-variables)
 * [5 Summary Statistics](#5-summary-statistics)
-
-
+* [6 Plots](#6-plots)
+* [7 References for Project](#7-references-for-project)
 
 
 
@@ -70,7 +71,6 @@ rationale.
 
 
 ### References for Tasks
-
 
 Task 2 - References
 
@@ -169,10 +169,11 @@ The 4 variables in question are
 The aim of this section of my project is to select, demonstrate, and explain the most appropriate summary statistics to describe each variable on the iris dataset.
 
 
+6 Plots
+======
 
-
-
-
+In this section I am going to Select, demonstrate, and explain the most appropriate plot(s) for
+each variable.
 
 7 References for Project
 ======
@@ -190,3 +191,5 @@ https://www.askpython.com/python/examples/calculate-summary-statistics
 https://byjus.com/biology/sepals/#:~:text=Sepals%20are%20small%2C%20leaf%2Dshaped,considered%20as%20the%20modified%20leaves
 
 https://www.vocabulary.com/dictionary/petal#:~:text=Petal%20comes%20from%20the%20Greek,flower's%20corolla%2C%20surrounding%20the%20center
+
+https://medium.com/@mz1482/unleashing-the-mysteries-of-iris-data-a-visualization-journey-with-python-packages-f5ee6f47c51d
