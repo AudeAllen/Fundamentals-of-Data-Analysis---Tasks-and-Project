@@ -155,6 +155,10 @@ https://stackoverflow.com/questions/55104819/display-count-on-top-of-seaborn-bar
 ======
 I will run through the different tools and packages that I am using for this project and anslyses.
 
+- Download Anaconda
+- Download Visual Studio Code
+- Download Github
+
 
 3 Background on the Iris Dataset 
 ======
