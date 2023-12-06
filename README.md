@@ -11,6 +11,7 @@ Here I will explain how I came to the solution of given tasks, reference the sou
     * [task2](#task2)
     * [task3](#task3)
     * [task4](#task4)
+    * [task5](#task5)
     * [References for Tasks](#references-for-tasks)
 
 
@@ -68,6 +69,13 @@ rationale.
 
 4. Suppose you are flipping two coins, each with a probability p of giving heads. Plot the entropy of the total number of heads versus p.
 
+======
+### ***task5***
+
+
+5. Create an appropriate individual plot for each of the variables in
+the penguin data set
+
 
 
 ### References for Tasks
@@ -119,6 +127,12 @@ https://www.blog.trainindata.com/mutual-information-with-python/
 https://en.wikipedia.org/wiki/Entropy_(information_theory)#:~:text=Two%20bits%20of%20entropy%3A%20In,and%20two%20bits%20of%20entropy
 
 https://towardsdatascience.com/entropy-in-soft-actor-critic-part-1-92c2cd3a3515
+
+Task 5 - References
+
+https://stackoverflow.com/questions/63687789/how-do-i-create-a-pie-chart-using-categorical-data-in-matplotlib
+
+https://stackoverflow.com/questions/55104819/display-count-on-top-of-seaborn-barplot
 
 
 ========================================================================================================================
