@@ -134,6 +134,12 @@ https://stackoverflow.com/questions/63687789/how-do-i-create-a-pie-chart-using-c
 
 https://stackoverflow.com/questions/55104819/display-count-on-top-of-seaborn-barplot
 
+https://www.kaggle.com/code/parulpandey/penguin-dataset-the-new-iris
+
+https://www.jaspersoft.com/articles/what-is-a-histogram-chart
+
+https://www.geeksforgeeks.org/how-to-make-histograms-with-density-plots-with-seaborn-histplot/
+
 
 ========================================================================================================================
 
