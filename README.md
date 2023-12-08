@@ -140,7 +140,9 @@ https://www.jaspersoft.com/articles/what-is-a-histogram-chart
 
 https://www.geeksforgeeks.org/how-to-make-histograms-with-density-plots-with-seaborn-histplot/
 
-https://study.com/academy/lesson/skewed-distribution-examples-definition-quiz.html#:~:text=Right%2Dskewed%20distributions%20indicate%20that,is%20greater%20than%20the%20median.
+https://study.com/academy/lesson/skewed-distribution-examples-definition-quiz.html#:~:text=Right%2Dskewed%20distributions%20indicate%20that,is%20greater%20than%20the%20median
+
+https://www.kaggle.com/code/tirendazacademy/penguin-dataset-data-visualization-with-seaborn
 
 
 ========================================================================================================================
