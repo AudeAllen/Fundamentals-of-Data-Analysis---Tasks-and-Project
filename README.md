@@ -6,7 +6,8 @@ Here I will explain how I came to the solution of given tasks, reference the sou
 <br />
 
 # Table of contents - Tasks
-* [Weekly tasks](#weekly-tasks)
+* [Software needed to run the project](#software-needed-to-run-the-project)	
+* [Weekly tasks](#weekly-tasks)   
     * [task1](#task1)
     * [task2](#task2)
     * [task3](#task3)
@@ -26,7 +27,15 @@ Here I will explain how I came to the solution of given tasks, reference the sou
 * [6 Plots](#6-plots)
 * [7 References for Project](#7-references-for-project)
 
+Software needed to run the Tasks
+======
 
+Please see below for the  different tools and packages that I am using for the tasks and anslyses.
+
+- Download Anaconda
+- Download Visual Studio Code
+- Jupyer Notebook
+- Download Github
 
 Weekly tasks
 ======
