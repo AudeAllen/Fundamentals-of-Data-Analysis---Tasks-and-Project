@@ -13,7 +13,7 @@ Here I will explain how I came to the solution of given tasks, reference the sou
     * [task3](#task3)
     * [task4](#task4)
     * [task5](#task5)
-    * [References for Tasks](#references-for-tasks)
+   
 
 
 
@@ -25,14 +25,14 @@ Here I will explain how I came to the solution of given tasks, reference the sou
 * [4 Classification of Variables](#4-classification-of-variables)
 * [5 Summary Statistics](#5-summary-statistics)
 * [6 Plots](#6-plots)
-* [7 References for Project](#7-references-for-project)
+
 
 Software needed to run the Tasks
 ======
 
 Please see below for the  different tools and packages that I am using for the tasks and anslyses.
 
-- Download Anaconda
+- Download Anaconda - Anaconda is a package that aims to simplify package management 
 - Download Visual Studio Code
 - Jupyer Notebook
 - Download Github
@@ -84,76 +84,6 @@ rationale.
 
 5. Create an appropriate individual plot for each of the variables in
 the penguin data set
-
-
-
-### References for Tasks
-
-Task 2 - References
-
-https://stats.oarc.ucla.edu/other/mult-pkg/whatstat/what-is-the-difference-between-categorical-ordinal-and-interval-variables/
-
-https://en.wikipedia.org/wiki/Continuous_or_discrete_variable
-
-https://www.cvent.com/en/blog/events/data-types-interval-ratio-data#:~:text=Ratio%20data%20has%20a%20defined,are%20examples%20of%20ratio%20data.
-
-https://www.kaggle.com/code/parulpandey/penguin-dataset-the-new-iris
-
-https://en.wikipedia.org/wiki/Level_of_measurement
-
-Task 3 - References
-
-https://docs.oracle.com/cd/E12825_01/epm.111/cb_user/frameset.htm?apas03.html
-
-https://www.simplilearn.com/tutorials/statistics-tutorial/what-is-probability-distribution#:~:text=A%20probability%20distribution%20is%20a,variable%20within%20a%20given%20range.
-
-https://bolt.mph.ufl.edu/6050-6052/unit-1/one-categorical-variable/#:~:text=In%20order%20to%20summarize%20the,converting%20the%20counts%20to%20percentages
-
-https://www.statology.org/frequency-tables-python/
-
-https://www.geeksforgeeks.org/how-to-create-frequency-tables-in-python/
-
-https://www.kristakingmath.com/blog/symmetric-and-skewed-distributions
-
-https://www.mygreatlearning.com/blog/gamma-distribution/#:~:text=Gamma%20Distribution%20is%20a%20Continuous,times%20between%20events%20are%20relevant.
-
-https://en.wikipedia.org/wiki/Gamma_distribution
-
-https://www.geeksforgeeks.org/python-numpy-np-lognormal-method/
-
-https://github.com/AudeAllen/Fundamentals-of-Data-Analysis---Tasks-and-Project/blob/main/tasks.ipynb
-
-Task 4 - References
-
-https://www.merriam-webster.com/dictionary/entropy#:~:text=broadly%20%3A%20the%20degree%20of%20disorder,universe%20toward%20death%20and%20disorder
-
-https://en.wikipedia.org/wiki/Entropy_(information_theory)
-
-https://sciencenotes.org/coin-toss-probability-formula-and-examples/
-
-https://www.blog.trainindata.com/mutual-information-with-python/
-
-https://en.wikipedia.org/wiki/Entropy_(information_theory)#:~:text=Two%20bits%20of%20entropy%3A%20In,and%20two%20bits%20of%20entropy
-
-https://towardsdatascience.com/entropy-in-soft-actor-critic-part-1-92c2cd3a3515
-
-Task 5 - References
-
-https://stackoverflow.com/questions/63687789/how-do-i-create-a-pie-chart-using-categorical-data-in-matplotlib
-
-https://stackoverflow.com/questions/55104819/display-count-on-top-of-seaborn-barplot
-
-https://www.kaggle.com/code/parulpandey/penguin-dataset-the-new-iris
-
-https://www.jaspersoft.com/articles/what-is-a-histogram-chart
-
-https://www.geeksforgeeks.org/how-to-make-histograms-with-density-plots-with-seaborn-histplot/
-
-https://study.com/academy/lesson/skewed-distribution-examples-definition-quiz.html#:~:text=Right%2Dskewed%20distributions%20indicate%20that,is%20greater%20than%20the%20median
-
-https://www.kaggle.com/code/tirendazacademy/penguin-dataset-data-visualization-with-seaborn
-
-
 ========================================================================================================================
 
 
@@ -177,6 +107,7 @@ I will run through the different tools and packages that I am using for this pro
 - Download Anaconda
 - Download Visual Studio Code
 - Download Github
+- Jupyer Notebook
 
 
 3 Background on the Iris Dataset 
@@ -212,21 +143,3 @@ The aim of this section of my project is to select, demonstrate, and explain the
 In this section I am going to Select, demonstrate, and explain the most appropriate plot(s) for
 each variable.
 
-7 References for Project
-======
-
-https://rstudio-pubs-static.s3.amazonaws.com/450733_9a472ce9632f4ffbb2d6175aaaee5be6.html#:~:text=iris%20dataset%20gives%20the%20measurements,setosa%2C%20versicolor%2C%20and%20virginica
-
-https://sa2253.medium.com/classification-of-iris-dataset-b4310ddf0482#:~:text=SUMMARY,networkis%20the%20best%20classification%20method
-
-https://studyonline.unsw.edu.au/blog/types-of-data#:~:text=Psychologist%20Stanley%20Stevens%20developed%20the,to%20properly%20analyse%20the%20data
-
-https://en.wikipedia.org/wiki/Summary_statistics
-
-https://www.askpython.com/python/examples/calculate-summary-statistics
-
-https://byjus.com/biology/sepals/#:~:text=Sepals%20are%20small%2C%20leaf%2Dshaped,considered%20as%20the%20modified%20leaves
-
-https://www.vocabulary.com/dictionary/petal#:~:text=Petal%20comes%20from%20the%20Greek,flower's%20corolla%2C%20surrounding%20the%20center
-
-https://medium.com/@mz1482/unleashing-the-mysteries-of-iris-data-a-visualization-journey-with-python-packages-f5ee6f47c51d
