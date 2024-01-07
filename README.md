@@ -35,7 +35,8 @@ Please see below for the  different tools and packages that I am using for the t
 - Download Anaconda - Anaconda is a package that aims to simplify package management 
 - Download Visual Studio Code
 - Jupyer Notebook
-- Download Github
+- Download Github - https://github.com/AudeAllen/Fundamentals-of-Data-Analysis---Tasks-and-Project.git
+- To run the tasks simply click on 'Run all' for tasks.ipynb. The project is a mix of code and markdown blocks which explain each part of each task. You can perform this action either in Visual Studio code or in Anconda in Jupyer Notebook.
 
 Weekly tasks
 ======
@@ -106,8 +107,9 @@ I will run through the different tools and packages that I am using for this pro
 
 - Download Anaconda
 - Download Visual Studio Code
-- Download Github
+- Download Github - https://github.com/AudeAllen/Fundamentals-of-Data-Analysis---Tasks-and-Project.git
 - Jupyer Notebook
+- To run this project simply click on 'Run all' for project.ipynb. The project is a mix of code and markdown blocks which explain each part of the project. You can perform this action either in Visual Studio code or in Anconda in Jupyer Notebook.
 
 
 3 Background on the Iris Dataset 
@@ -123,13 +125,23 @@ The 4 variables in question are
 
 ### ***Species***
 
+- Categorical variable - 3 type of species - Iris setosa, Iris virginica and Iris versicolor
+
 ### ***petallength***
+
+- Numerical continuous Variable
 
 ### ***petalwidth***
 
+- Numerical continuous Variable
+
 ### ***sepallength***
 
+- Numerical continuous Variable
+
 ### ***sepalwidth***
+
+- Numerical continuous Variable
 
 5 Summary Statistics
 ======
